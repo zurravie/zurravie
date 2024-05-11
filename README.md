@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-<img src="https://unsplash.com/photos/red-car-parked-beside-brown-concrete-building-during-daytime-6b2xPLPN6ag" class="center">
+<img src="https://images.unsplash.com/photo-1580196969807-cc6de06c05be?q=80&w=1579&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="center">
 Greetings, I'm Lav1n👋🏼,<br><br>
 I'm just your average Joe with a dabbling of coding knowledge and absolutely zero experience in stock trading. When I'm not scrolling through cat videos on YouTube, I like to pretend to work on projects, hang out with people who barely tolerate me, read books (mostly for the pictures), go on adventures (to the fridge and back), and daydream about new ideas that I will likely never act on.
 
