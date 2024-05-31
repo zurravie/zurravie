@@ -25,6 +25,4 @@ So if you're looking for someone who is mediocre at everything and has a knack f
 
 
   ## 💰 You can help me by funding a small amount to my startup
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://lik.dana.id/qr/2trycucq)
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+ [![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://saweria.co/radityprtama)
