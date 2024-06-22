@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Raden_Saleh_-_Diponegoro_arrest.jpg/1200px-Raden_Saleh_-_Diponegoro_arrest.jpg">
-Greetings, I'm Lav1n👋🏼,<br><br>
+Greetings, I'm Lavin👋🏼,<br><br>
 I'm just your average Joe with a dabbling of coding knowledge and absolutely zero experience in stock trading. When I'm not scrolling through cat videos on YouTube, I like to pretend to work on projects, hang out with people who barely tolerate me, read books (mostly for the pictures), go on adventures (to the fridge and back), and daydream about new ideas that I will likely never act on.
 
 Despite my general cluelessness, I've always been curious about the world. As a kid, I loved taking things apart and pretending to know how to put them back together. While my endeavors in coding and the stock market have been underwhelming at best, I'm confident that my boundless enthusiasm and lack of expertise will carry me to new heights (or maybe just to the nearest bar).
